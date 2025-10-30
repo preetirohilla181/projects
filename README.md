@@ -10,7 +10,9 @@ SQL Employee Analytics Project Tools:
 MySQL / SQL Server 
 Designed and normalized employee databases, created stored procedures, and performed analysis using joins, subqueries, and aggregates. Automated HR analytics to provide insights into performance, salary, and departmental data for better workforce planning. 
 
-Sales Performance Dashboard (Power BI Project) Tools:
+Sales Performance Dashboard (Power BI Project) Tools: Explore the live report hosted on Microsoft Fabric / Power BI:  
+
+[View Live Dashboard](https://app.fabric.microsoft.com/groups/me/reports/6bcb3db5-975f-407d-9ac2-507c8e386186/ReportSection?experience=fabric-developer)
 Power BI, DAX, Excel Analyzed global sales data to track revenue, profit margins, and customer trends across regions. Created DAX measures for revenue, growth, and profitability; built dynamic dashboards with filters and KPIs for product and regional insights. Delivered a professional Power BI report that supports data-driven business decisions. 
 
 ETL Data Pipeline Automation (AWS Glue Project)Tools: AWS Glue, Amazon S3 Automated extraction, transformation, and loading (ETL) processes for retail data using AWS Glue and Amazon S3. Developed crawlers, classifiers, and data models to create consistent, reliable data pipelines for analytics dashboards. 
